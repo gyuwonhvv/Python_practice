@@ -1,0 +1,8 @@
+cat: 고양이
+lion: 사자
+good: 좋다
+money: 돈
+book: 책
+apple: 사과
+soap: 비누
+bag: 가방
